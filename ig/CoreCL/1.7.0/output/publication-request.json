@@ -1,0 +1,15 @@
+{
+  "package-id": "hl7.fhir.cl.corecl",
+  "version": "1.7.0",
+  "path": "https://hl7chile.cl/fhir/ig/corecl/1.7.0",
+  "milestone": false,
+  "status": "release",
+  "sequence": "Releases",
+  "desc": "test",
+  "descmd": "test",
+  "changes": "test",
+  "title": "titulo",
+  "ci-build": "titulo",
+  "category": "titulo",
+  "introduction": "titulo"
+}
