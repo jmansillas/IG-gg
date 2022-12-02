@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ImplementationGuide xmlns="http://hl7.org/fhir">
-  <id value="hl7.fhir.cl.CoreCH"/>
+  <id value="hl7.fhir.cl.corecl"/>
   <text>
-    <status value="extensions"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>CoreCL</h2><p>The official URL for this implementation guide is: </p><pre>https://hl7chile.cl/fhir/ig/CoreCL/ImplementationGuide/hl7.fhir.cl.CoreCH</pre><div><p>Guía de Implementación para los perfiles Core que se van a requerir a nivel de desarrollo Nacional para Sistemas que Intercambien datos en estandar FHIR-R4</p>
-</div></div>
+    <status value="extensions"/>
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <h2>CoreCL</h2>
+      <p>The official URL for this implementation guide is: </p>
+      <pre>https://hl7chile.cl/fhir/ig/CoreCL/ImplementationGuide/hl7.fhir.cl.corecl</pre>
+      <div>
+        <p>Guía de Implementación para los perfiles Core que se van a requerir a nivel de desarrollo Nacional para Sistemas que Intercambien datos en estandar FHIR-R4</p>
+      </div>
+    </div>
   </text>
-  <url value="https://hl7chile.cl/fhir/ig/CoreCL/ImplementationGuide/hl7.fhir.cl.CoreCH"/>
+  <url value="https://hl7chile.cl/fhir/ig/CoreCL/ImplementationGuide/hl7.fhir.cl.corecl"/>
   <version value="1.0.0"/>
   <name value="CoreCL"/>
   <title value="Guía de Implementación Core-CL FHIR R4 (Standard Trial For Use (STU))"/>
@@ -33,7 +40,7 @@
     </coding>
   </jurisdiction>
   <copyright value="Usado con el permiso de HL7 International, todos los derechos resevados en los Licencias de HL7 Internacional."/>
-  <packageId value="hl7.fhir.cl.CoreCH"/>
+  <packageId value="hl7.fhir.cl.corecl"/>
   <license value="CC0-1.0"/>
   <fhirVersion value="4.0.1"/>
   <definition>

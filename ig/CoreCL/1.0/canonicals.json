@@ -35,9 +35,9 @@
     "name": "CSEspecialidadesDeisCL"
   },
   {
-    "id": "hl7.fhir.cl.CoreCH",
+    "id": "hl7.fhir.cl.corecl",
     "type": "ImplementationGuide",
-    "url": "https://hl7chile.cl/fhir/ig/CoreCL/ImplementationGuide/hl7.fhir.cl.CoreCH",
+    "url": "https://hl7chile.cl/fhir/ig/CoreCL/ImplementationGuide/hl7.fhir.cl.corecl",
     "version": "1.0.0",
     "name": "CoreCL"
   },

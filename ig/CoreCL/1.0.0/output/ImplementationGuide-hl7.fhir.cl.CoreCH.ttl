@@ -5,14 +5,14 @@
 
 # - resource -------------------------------------------------------------------
 
-<https://hl7chile.cl/fhir/ig/CoreCL/ImplementationGuide/hl7.fhir.cl.CoreCH> a fhir:ImplementationGuide;
+<https://hl7chile.cl/fhir/ig/CoreCL/ImplementationGuide/hl7.fhir.cl.corecl> a fhir:ImplementationGuide;
   fhir:nodeRole fhir:treeRoot;
-  fhir:Resource.id [ fhir:value "hl7.fhir.cl.CoreCH"];
+  fhir:Resource.id [ fhir:value "hl7.fhir.cl.corecl"];
   fhir:DomainResource.text [
      fhir:Narrative.status [ fhir:value "extensions" ];
-     fhir:Narrative.div "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h2>CoreCL</h2><p>The official URL for this implementation guide is: </p><pre>https://hl7chile.cl/fhir/ig/CoreCL/ImplementationGuide/hl7.fhir.cl.CoreCH</pre><div><p>Guía de Implementación para los perfiles Core que se van a requerir a nivel de desarrollo Nacional para Sistemas que Intercambien datos en estandar FHIR-R4</p>\n</div></div>"
+     fhir:Narrative.div "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h2>CoreCL</h2><p>The official URL for this implementation guide is: </p><pre>https://hl7chile.cl/fhir/ig/CoreCL/ImplementationGuide/hl7.fhir.cl.corecl</pre><div><p>Guía de Implementación para los perfiles Core que se van a requerir a nivel de desarrollo Nacional para Sistemas que Intercambien datos en estandar FHIR-R4</p>\n</div></div>"
   ];
-  fhir:ImplementationGuide.url [ fhir:value "https://hl7chile.cl/fhir/ig/CoreCL/ImplementationGuide/hl7.fhir.cl.CoreCH"];
+  fhir:ImplementationGuide.url [ fhir:value "https://hl7chile.cl/fhir/ig/CoreCL/ImplementationGuide/hl7.fhir.cl.corecl"];
   fhir:ImplementationGuide.version [ fhir:value "1.0.0"];
   fhir:ImplementationGuide.name [ fhir:value "CoreCL"];
   fhir:ImplementationGuide.title [ fhir:value "Guía de Implementación Core-CL FHIR R4 (Standard Trial For Use (STU))"];
@@ -43,7 +43,7 @@
      ]
   ];
   fhir:ImplementationGuide.copyright [ fhir:value "Usado con el permiso de HL7 International, todos los derechos resevados en los Licencias de HL7 Internacional."];
-  fhir:ImplementationGuide.packageId [ fhir:value "hl7.fhir.cl.CoreCH"];
+  fhir:ImplementationGuide.packageId [ fhir:value "hl7.fhir.cl.corecl"];
   fhir:ImplementationGuide.license [ fhir:value "CC0-1.0"];
   fhir:ImplementationGuide.fhirVersion [
      fhir:value "4.0.1";
@@ -856,7 +856,7 @@
 
 # - ontology header ------------------------------------------------------------
 
-<https://hl7chile.cl/fhir/ig/CoreCL/ImplementationGuide/hl7.fhir.cl.CoreCH.ttl> a owl:Ontology;
+<https://hl7chile.cl/fhir/ig/CoreCL/ImplementationGuide/hl7.fhir.cl.corecl.ttl> a owl:Ontology;
   owl:imports fhir:fhir.ttl .
 
 # -------------------------------------------------------------------------------------

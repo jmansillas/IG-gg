@@ -3,7 +3,7 @@
 
 err = 0, warn = 0, info = 10
 IG Publisher Version: 1.1.97
-Generated Thu Jan 20 16:40:23 CLST 2022. FHIR version 4.0.1 for hl7.fhir.cl.CoreCH#1.0.0 (canonical = https://hl7chile.cl/fhir/ig/CoreCL)
+Generated Thu Jan 20 16:40:23 CLST 2022. FHIR version 4.0.1 for hl7.fhir.cl.corecl#1.0.0 (canonical = https://hl7chile.cl/fhir/ig/CoreCL)
  Build Errors : 0 / 0 / 0
  C:\Users\jmansilla\ownCloud\IGs\_FHIR_Core_CH\fsh-generated\resources\Bundle-BundleEx : 0 / 0 / 1
  C:\Users\jmansilla\ownCloud\IGs\_FHIR_Core_CH\fsh-generated\resources\CodeSystem-CSCodComunasCL : 0 / 0 / 2
@@ -11,7 +11,7 @@ Generated Thu Jan 20 16:40:23 CLST 2022. FHIR version 4.0.1 for hl7.fhir.cl.Core
  C:\Users\jmansilla\ownCloud\IGs\_FHIR_Core_CH\fsh-generated\resources\CodeSystem-CSCodRegionCL : 0 / 0 / 2
  C:\Users\jmansilla\ownCloud\IGs\_FHIR_Core_CH\fsh-generated\resources\CodeSystem-CSCodigoDNI : 0 / 0 / 2
  C:\Users\jmansilla\ownCloud\IGs\_FHIR_Core_CH\fsh-generated\resources\CodeSystem-CSEspecialidadesDeisCL : 0 / 0 / 2
- C:\Users\jmansilla\ownCloud\IGs\_FHIR_Core_CH\fsh-generated\resources\ImplementationGuide-hl7.fhir.cl.CoreCH : 0 / 0 / 1
+ C:\Users\jmansilla\ownCloud\IGs\_FHIR_Core_CH\fsh-generated\resources\ImplementationGuide-hl7.fhir.cl.corecl : 0 / 0 / 1
  C:\Users\jmansilla\ownCloud\IGs\_FHIR_Core_CH\fsh-generated\resources\Location-LocalizacionEjemploCL1 : 0 / 0 / 1
  C:\Users\jmansilla\ownCloud\IGs\_FHIR_Core_CH\fsh-generated\resources\Medication-MedicamentoCl : 0 / 0 / 2
  C:\Users\jmansilla\ownCloud\IGs\_FHIR_Core_CH\fsh-generated\resources\Medication-MedicamentoCl-2 : 0 / 0 / 2
@@ -48,7 +48,7 @@ INFORMATION: CodeSystem/CSCodRegionCL: CodeSystem: CodeSystems SHOULD have a sta
 INFORMATION: CodeSystem/CSCodigoDNI: CodeSystem: CodeSystems SHOULD have a stated value for the caseSensitive element so that users know the status and meaning of the code system clearly
 == fsh-generated\resources\CodeSystem-CSEspecialidadesDeisCL.json ==
 INFORMATION: CodeSystem/CSEspecialidadesDeisCL: CodeSystem: CodeSystems SHOULD have a stated value for the caseSensitive element so that users know the status and meaning of the code system clearly
-== fsh-generated\resources\ImplementationGuide-hl7.fhir.cl.CoreCH.json ==
+== fsh-generated\resources\ImplementationGuide-hl7.fhir.cl.corecl.json ==
 == fsh-generated\resources\Location-LocalizacionEjemploCL1.json ==
 == fsh-generated\resources\Medication-MedicamentoCl.json ==
 INFORMATION: Medication/MedicamentoCl: Medication.code.coding[0]: Code System URI 'http://minsal.cl/semantikos/description-id' is unknown so the code cannot be validated

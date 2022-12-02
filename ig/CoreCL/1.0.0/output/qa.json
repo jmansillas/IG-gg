@@ -1,7 +1,7 @@
 {
-  "url": "https://hl7chile.cl/fhir/ig/CoreCL/ImplementationGuide/hl7.fhir.cl.CoreCH",
+  "url": "https://hl7chile.cl/fhir/ig/CoreCL/ImplementationGuide/hl7.fhir.cl.corecl",
   "name": "CoreCL",
-  "package-id": "hl7.fhir.cl.CoreCH",
+  "package-id": "hl7.fhir.cl.corecl",
   "ig-ver": "1.0.0",
   "date": "Thu, 20 Jan, 2022 16:38:47 -0300",
   "errs": 0,
